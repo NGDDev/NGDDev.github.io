@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/micromouse.jpg
 title: Door Entry System
-permalink: projects/micromouse
+permalink: projects/des
 # All dates must be YYYY-MM-DD format!
 date: 2019-03-01
 labels:
@@ -32,7 +32,7 @@ LS, GLU, LO, WS, LC, GLL, GRU, RO, RC, GRL, Machine Reset.
 Outbound  
 RS, GRU, RO, WS, RC, GRL, GLU, LO, LC, GLL, Machine Reset.
 
-<div class="ui medium rounded images">
+<div class="ui large rounded images">
   <img class="ui image" src="../images/DESTransitionTable.png">
 </div>
 
