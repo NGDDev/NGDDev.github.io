@@ -11,8 +11,7 @@ labels:
   - C
 summary: A Door Entry System using QNX native message passing to drive a finite state machine.
 ---
-
-<div class="ui medium rounded images">
+<div class="ui large rounded images">
   <img class="ui image" src="../images/FSM.png">
   <img class="ui image" src="../images/FSMLegend.png">
   <img class="ui image" src="../images/DESTransitionTable.png">
