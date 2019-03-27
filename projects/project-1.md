@@ -13,6 +13,7 @@ summary: A Door Entry System using QNX native message passing to drive a finite 
 ---
 <div class="ui large rounded images">
   <img class="ui image" src="../images/FSM.png">
+  <img class="ui image" src="../images/FSMLegend.png">
 </div>
  
 
@@ -34,6 +35,5 @@ RS, GRU, RO, WS, RC, GRL, GLU, LO, LC, GLL, Machine Reset.
 
 <div class="ui medium rounded images">
   <img class="ui image" src="../images/DESTransitionTable.png">
-  <img class="ui image" src="../images/FSMLegend.png">
 </div>
 
