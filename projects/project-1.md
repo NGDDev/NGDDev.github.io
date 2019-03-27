@@ -26,7 +26,7 @@ User enters the weight scale, provides their weight and Guard closes and locks t
 Guard unlocks the outbound door, door opens, user exits and has passed through the DES.
 Guard closes and locks the door behind them.
 
-Here is the expected sequence of events  
+Expected sequence of events  
 
 Inbound  
 LS, GLU, LO, WS, LC, GLL, GRU, RO, RC, GRL, Machine Reset.
