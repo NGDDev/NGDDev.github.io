@@ -13,9 +13,8 @@ summary: A Door Entry System using QNX native message passing to drive a finite 
 ---
 <div class="ui large rounded images">
   <img class="ui image" src="../images/FSM.png">
-  <img class="ui image" src="../images/FSMLegend.png">
-  <img class="ui image" src="../images/DESTransitionTable.png">
 </div>
+ 
 
 The DES is a Door Entry System simulating an inbound/outbound security passthrough system. The sequence of events are driven by user input and using QNX native message passing to drive the finite state machine. 
 
@@ -33,4 +32,8 @@ LS, GLU, LO, WS, LC, GLL, GRU, RO, RC, GRL, Machine Reset.
 Outbound  
 RS, GRU, RO, WS, RC, GRL, GLU, LO, LC, GLL, Machine Reset.
 
+<div class="ui medium rounded images">
+  <img class="ui image" src="../images/DESTransitionTable.png">
+  <img class="ui image" src="../images/FSMLegend.png">
+</div>
 
