@@ -13,10 +13,9 @@ summary: A Door Entry System using QNX native message passing to drive a finite 
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/FSM.png">
+  <img class="ui image" src="../images/FSMLegend.png">
+  <img class="ui image" src="../images/DESTransitionTable.png>
 </div>
 
 The DES is a Door Entry System simulating an inbound/outbound security passthrough system. The sequence of events are driven by user input and using QNX native message passing to drive the finite state machine. 
