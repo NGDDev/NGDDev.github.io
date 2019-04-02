@@ -66,13 +66,19 @@
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Version Control",
+      "level": "",
+      "keywords": [
+        "Git/GitHub"
+      ]
+    },
+    {
+      "name": "Operating Systems",
       "level": "",
       "keywords": [
         "Windows",
         "QNX",
         "Ubuntu",
-        "Git/GitHub",
         "VM"
       ]
     }
