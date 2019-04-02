@@ -35,7 +35,7 @@ At this point we have a buffer to hold characters, scanner to read the buffer an
 The parser for this language is a RDPP or Recursive Descent Predictive Parser. Our grammar was written for a LR bottom up parser. With this the first task was to transform the grammar into a LL parser. This example will show you how I transformed the string expression grammar. 
 
 <div class="ui medium rounded images">
-  <img class="ui image" height="500" width="700" src="../images/LLgrammar.jpg">
+  <img class="ui image" src="../images/LLgrammar.jpg">
 </div>
 
 With this we now know how our compiler should be syntactically. The parser consists of grammar production functions, error handling, accepting state functions correlated to the state machine and the parsers token match tool which is used to match the tokens generated from the scanner to the parsers lookahead token to correctly determine if the code is syntactically correct.
@@ -43,7 +43,7 @@ With this we now know how our compiler should be syntactically. The parser consi
 Below is the parsers match function, which attempts to match the token to the lookahead token.
 
 <div class="ui medium rounded images">
-  <img class="ui image" height="500" width="700" src="../images/parsercodesnip.jpg">
+  <img class="ui image" src="../images/parsercodesnip.jpg">
 </div>
 
 
