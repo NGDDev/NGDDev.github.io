@@ -3,8 +3,8 @@
 # REQUIRED CHANGES
 # Edit next line, providing your own name.
 title: Nicolas Daigle | Professional Portfolio
-# Edit next line, replacing 'techfolios' with your github username
-url: "https://NGDDev.github.io"
+# Edit next line, replacing 'techfolios' with your github username "https://NGDDev.github.io"
+url: "https://github"
 # Edit next line so that baseurl is "" if your repo is <username>.github.io
 baseurl: ""
 
